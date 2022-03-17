@@ -10,6 +10,7 @@ numpy = "^1.22.2"
 funcy = "^1.17"
 mathpy = "^0.3.0"
 patterns = "^0.3"
+boat = "^0.0.1"
 
 [tool.poetry.dev-dependencies]
 
